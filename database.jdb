@@ -1,0 +1,3 @@
+AlejandroPupo2001={'dir': '', 'cloudtype': 'moodle', 'moodle_host': 'https://moodle.uclv.edu.cu/', 'moodle_repo_id': 4, 'moodle_user': 'livsanudo', 'moodle_password': 'liv.pol28*o', 'isadmin': 1, 'zips': 398, 'uploadtype': 'calendario', 'proxy': '', 'tokenize': 0}
+Marquez_tg={'dir': '', 'cloudtype': 'moodle', 'moodle_host': 'https://moodle.uclv.edu.cu/', 'moodle_repo_id': 4, 'moodle_user': 'livsanudo', 'moodle_password': 'liv.pol28*o', 'isadmin': 0, 'zips': 398, 'uploadtype': 'calendario', 'proxy': '', 'tokenize': 0}
+DRP96={'dir': '', 'cloudtype': 'moodle', 'moodle_host': 'https://moodle.uclv.edu.cu/', 'moodle_repo_id': 4, 'moodle_user': 'livsanudo', 'moodle_password': 'liv.pol28*o', 'isadmin': 0, 'zips': 398, 'uploadtype': 'calendario', 'proxy': '', 'tokenize': 0}
